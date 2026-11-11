@@ -1,0 +1,50 @@
+
+# ==========================================
+# 1. RAG et orchestration
+# ==========================================
+langchain-core
+langchain-text-splitters
+langchain-community
+langchain-chroma
+chromadb
+
+# ==========================================
+# 2. Embeddings et reranking ONNX
+# ==========================================
+fastembed==0.9.1
+onnxruntime==1.23.2
+
+# ==========================================
+# 3. Traitement et ingestion des documents
+# ==========================================
+tiktoken
+pypdf
+beautifulsoup4
+python-docx
+pandas
+pyarrow
+
+# ==========================================
+# 4. Génération IA et configuration
+# ==========================================
+openai
+python-dotenv
+
+# ==========================================
+# 5. Recherche hybride
+# ==========================================
+rank-bm25
+
+# ==========================================
+# 6. API et interface utilisateur
+# ==========================================
+fastapi[standard]
+streamlit
+python-multipart
+
+# ==========================================
+# 7. Tests et évaluation
+# ==========================================
+pytest
+httpx
+reportlab

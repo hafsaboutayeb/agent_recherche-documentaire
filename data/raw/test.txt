@@ -1,0 +1,3 @@
+L'intelligence artificielle est une technologie qui permet aux machines d'effectuer des tâches nécessitant normalement l'intelligence humaine.
+
+Le RAG (Retrieval-Augmented Generation) permet à un modèle de langage de répondre à des questions en utilisant des documents comme sources d'information.
